@@ -4,7 +4,7 @@ Handlebars is a templating script to generate HTML.
 ### Main tags
 | tags | description |
 | ------ | ------ |
-| **{{ }}** | Display variables(HTML Escaped) |
+| **{{ }}** | Display variables (HTML Escaped) |
 | **{{{ }}}** | Unescaped output to page (Raw Html) |
 | **{{# }}** **{{/ }}** | Evaluate context (Logic) |
 | **{{! }}** | Comment tag, no execution, no output |
