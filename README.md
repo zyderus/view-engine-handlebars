@@ -6,7 +6,7 @@ Handlebars is a templating script to generate HTML.
 | ------ | ------ |
 | **{{ }}** | Display variables(HTML Escaped) |
 | **{{{ }}}** | Unescaped output to page (Raw Html) |
-| **{{# }}** **{{/ }} | Evaluate context (Logic) |
+| **{{# }}** **{{/ }}** | Evaluate context (Logic) |
 | **{{! }}** | Comment tag, no execution, no output |
 | **{{>header}}** | Embed html from another file in **partials** directory (header.hbs) |
 
